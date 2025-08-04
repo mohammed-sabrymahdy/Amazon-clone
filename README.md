@@ -18,7 +18,7 @@ Welcome to the **Amazon Clone** project — a fully functional e-commerce platfo
 ---
 
 ### 💳 Stripe Payment Page
-![Payment](https://drive.google.com/uc?export=v)
+![Payment](https://drive.google.com/uc?export=view&id=1J2FryE9Qp0dBH2r7GwKNuABce9ThYAy-)
 
 ## ✨ Features
 
