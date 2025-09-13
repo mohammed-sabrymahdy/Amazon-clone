@@ -2,7 +2,10 @@
 
 Welcome to the **Amazon Clone** project — a fully functional e-commerce platform built using **React**, **Firebase**, and **Stripe**!
 
-🚀 **Live Demo**: [Visit the App](https://clone-f8158.firebaseapp.com/)
+🚀 **Live Demo**: [Visit the App](https://clone-ab8ec.web.app/)
+- ⏳ The hosting is **temporary** and may expire, requiring manual renewal or redeployment from time to time.  
+- 🐢 **Note:** The website might load **slowly** sometimes due to **free hosting limitations**.
+
 
 ---
 ## 📸 Screenshots
